@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Creacion:         25-03-2021
 # Objetivo:         Crear base conjunta del promedio de los pixeles por cada región
-# Ruta:             D:/OneDrive - El Colegio de México A.C/0. Tesis/5 Datos-Silvan/2. Resultados/1. Estadística-zonal-bases
+# Ruta:             D:/.../1. Estadística-zonal-bases
 # Input:            "b2019-2.dbf"
 # Output:           "btotal.dbf"
 #-------------------------------------------------------------------------------
@@ -54,7 +54,7 @@ write.dbf(b.total,paste(directorio,"/btotal.dbf",sep=""))
 #-------------------------------------------------------------------------------
 # Creacion:         25-03-2021
 # Objetivo:         Unir bases de datos del INE por trimestre
-# Ruta:             D:/OneDrive - El Colegio de México A.C/0. Tesis/5 Datos-Silvan/2. Resultados/1. Estadística-zonal-bases
+# Ruta:             D:/.../1. Estadística-zonal-bases
 # Input:            PL_20170131.xlsx    Estos archivos vienen del INE
 # Output:           
 #-------------------------------------------------------------------------------
