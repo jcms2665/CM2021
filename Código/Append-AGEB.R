@@ -4,7 +4,7 @@
 # Contacto:         jcms2665@gmail.com
 # Objetivo:         Pegado de la base de datos
 # Datos:             
-# Github:           https://github.com/jcms2665/FLACSO-MATE-II
+# Github:           
 #-------------------------------------------------------------------------------
 
 
